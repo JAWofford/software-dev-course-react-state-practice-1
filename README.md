@@ -1,5 +1,5 @@
 # React State & Event Management
-## Practice 1 - Solution
+## Practice 1
 
 ### Starter Code
 
