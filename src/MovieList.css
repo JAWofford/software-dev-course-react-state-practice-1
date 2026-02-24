@@ -1,0 +1,18 @@
+.movie-list-container{
+    flex:1;
+    min-width: 0;
+}
+
+.movie-list{
+    list-style:none;
+}
+
+.movie-list li{
+padding: 3px;
+}
+
+.movie-list li::before {
+  content: "🎬"; /* movie reel emoji */
+  margin-right: 8px; /* space between icon and text */
+  display: inline-block; /* ensures spacing works */
+}
